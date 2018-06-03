@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeMCGen_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/MCGen",
 				PKG_CompiledIn | 0x00000000,
-				0xB72A6378,
-				0x50729BF2,
+				0xB3E23BFB,
+				0x2C3F1A4F,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

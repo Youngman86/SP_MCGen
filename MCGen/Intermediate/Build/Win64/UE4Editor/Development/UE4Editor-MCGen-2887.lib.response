@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MCGen-2887.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\MCGen.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\MCGenCharacter.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\MCGenGameMode.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\MCGenHUD.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\MCGenProjectile.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\VoxelActor.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\MCGen.init.gen.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\MCGenCharacter.gen.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\MCGenGameMode.gen.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\MCGenHUD.gen.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\MCGenProjectile.gen.cpp.obj"
+"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\MCGen\VoxelActor.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\MCGen\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\byoun\source\repos\SP_MCGen\MCGen\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MCGen-2887.lib"
