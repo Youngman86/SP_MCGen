@@ -1,0 +1,3 @@
+C:\Users\byoun\source\repos\SP_MCGen\MCGen\Source\MCGen\MCGen.Build.cs
+C:\Users\byoun\source\repos\SP_MCGen\MCGen\Source\MCGen.Target.cs
+C:\Users\byoun\source\repos\SP_MCGen\MCGen\Source\MCGenEditor.Target.cs

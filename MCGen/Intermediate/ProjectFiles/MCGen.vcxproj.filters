@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MCGen.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{22FD4370-1E07-4B00-95F7-DBB6D2A0FCA2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MCGen.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MCGenEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{505B7F5A-463A-4B33-8D3C-E96D62646153}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MCGen">
+			<UniqueIdentifier>{CC1EAFA6-1F13-4596-A3E0-03BA61D07376}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MCGen\MCGen.Build.cs">
+			<Filter>Source\MCGen</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MCGen\MCGen.cpp">
+			<Filter>Source\MCGen</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MCGen\MCGen.h">
+			<Filter>Source\MCGen</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MCGen\MCGenCharacter.cpp">
+			<Filter>Source\MCGen</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MCGen\MCGenCharacter.h">
+			<Filter>Source\MCGen</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MCGen\MCGenGameMode.cpp">
+			<Filter>Source\MCGen</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MCGen\MCGenGameMode.h">
+			<Filter>Source\MCGen</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MCGen\MCGenHUD.cpp">
+			<Filter>Source\MCGen</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MCGen\MCGenHUD.h">
+			<Filter>Source\MCGen</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MCGen\MCGenProjectile.cpp">
+			<Filter>Source\MCGen</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MCGen\MCGenProjectile.h">
+			<Filter>Source\MCGen</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
